@@ -1,4 +1,7 @@
 # ausderholle, 
+
+Public trademark statements.  This is not an app repository.
+
 Aus der Hölle, 
 AI Game of Life™, 
 Creo to Analysis Integration Tool, 
